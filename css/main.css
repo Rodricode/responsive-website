@@ -19,7 +19,7 @@ html, body {
 /*---------- HEADER ----------*/
 
 header {
-  height: 300px;
+  height: 320px;
   width: 100%;
   background: #e3e3e3;
 }
@@ -59,6 +59,7 @@ footer {
 /* Change the background colors below */
 
 @media (min-width: 768px) {
+
   header {
     background-color: ;
   }
@@ -69,14 +70,20 @@ footer {
 
   #column-2 {
     background-color:black ;
+
   }
 
   #column-3 {
     background-color:navy ;
+    width: 100%;
   }
 
   footer {
     background-color: ;
+  }
+
+  .col-3{
+    width:50%;
   }
 
 }
@@ -94,14 +101,19 @@ footer {
 
   #column-2 {
     background-color:#e9967a ;
+
   }
 
   #column-3 {
     background-color:#8fbc8f ;
+    width:33.3%;
   }
 
   footer {
     background-color: ;
   }
 
+  .col-3{
+    width:33.3%;
+  }
 }
