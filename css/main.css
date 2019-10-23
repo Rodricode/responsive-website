@@ -34,15 +34,15 @@ header {
 }
 
 #column-1 {
-  background: #d5d5d5;
+  background: orange;
 }
 
 #column-2 {
-  background: #d5d5d5;
+  background: pink;
 }
 
 #column-3 {
-  background: #d5d5d5;
+  background: red;
 }
 
 
@@ -64,21 +64,21 @@ footer {
   }
 
   #column-1 {
-    background-color: ;
+    background-color:green ;
   }
 
   #column-2 {
-    background-color: ;
+    background-color:black ;
   }
 
   #column-3 {
-    background-color: ;
+    background-color:navy ;
   }
 
   footer {
     background-color: ;
   }
-  
+
 }
 
 
@@ -89,19 +89,19 @@ footer {
   }
 
   #column-1 {
-    background-color: ;
+    background-color:cyan ;
   }
 
   #column-2 {
-    background-color: ;
+    background-color:#e9967a ;
   }
 
   #column-3 {
-    background-color: ;
+    background-color:#8fbc8f ;
   }
 
   footer {
     background-color: ;
   }
-   
+
 }
